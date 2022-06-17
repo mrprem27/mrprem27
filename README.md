@@ -7,8 +7,9 @@
 ---
 ## Reach Me Out!📫 <br>
 <!-- [![Twitter Badge](https://img.shields.io/twitter/url?label=%40Utsav_soni27&style=social&url=https%3A%2F%2Ftwitter.com%2FUtsav_soni27)](https://twitter.com/Utsav_soni27) -->
-[![LinkedIn Badge](https://img.shields.io/badge/-@mrprem27-e84393?style=flat&labelColor=e84393&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrprem27)
-[![Insta Badge](https://img.shields.io/badge/-@mrprem27-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/mrprem27/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@mrprem27-c04452b?style=flat&labelColor=c04452b&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrprem27)
+[![Tweeter](https://img.shields.io/badge/-@mrprem27-e14393?style=flat&labelColor=e14393&logo=twitter&logoColor=white)](https://www.twitter.com/mrprem27)
+[![Insta Badge](https://img.shields.io/badge/-@mrprem27-e84473?style=flat&labelColor=e84473&logo=instagram&logoColor=white)](https://www.instagram.com/mrprem27/)
 [![Mail Badge](https://img.shields.io/badge/-bhatipp96@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bhatipp96@gmail.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-mrprem27-18d982?style=flat&labelColor=0c0c14&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amitbhati1008)
 ---
