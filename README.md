@@ -26,6 +26,7 @@
     - MySQL (5 ⭐ on Hackerrank)  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50px" alt="MySQL" align = "center">
     - MongoDB 
     - Node.js
+    - React Native
     - Express.js
     - React.js
     - PHP
@@ -33,7 +34,7 @@
     - Flutter
     - Socket.io
     - Django
-    - WebRTC(simple peer)
+    - WebRTC
 ---
 - I'm a quick learner. 
 - I use a creative approach to solve a problem. 
@@ -50,7 +51,7 @@ Hackshetra Techspardha-22 (annual tech-fest of N.I.T. Kurukshetra ) is a 24-Hour
 - 🔭 I’m currently working on An Android App for Hostel Mess Management.
 - 🌱 I’m currently learning Flutter and Selenium.
 - 👯 I’m looking to collaborate on Web Apps and Start up Ideas.
-- 💬 Ask me about Anything.
+- 💬 Ask me about Anything <h5> https://mrprem27.netlify.app<h5>
 - 📫 How to reach me: just mail me at <h5>bhatipp96@gmail.com</h5> .
 - ⚡ Fun fact:I am Iron Man.🦸‍♂️
 
