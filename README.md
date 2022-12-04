@@ -1,6 +1,6 @@
 # Sup! Namaste!! I'm Prem Purushottam Bhati - aka mrprem27 <img src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" width="50px" alt="Hello">
 ## I'm a 3rd year IT Student at National Institute Of Technology Kurukshetra!
-- MERN Stack Web Developer and Flutter App Developer
+- MERN Stack Web Developer and ReactNative/Flutter App Developer
 - I know a few languages other than Hindi and English.
 - I have good knowledge of DSA.
 - I'm a Web Developer and a Competitive Programmer with 4⭐ on CodeChef and 6⭐ in Problem Solving on HackerRank.
