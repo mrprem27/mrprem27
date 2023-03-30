@@ -1,9 +1,13 @@
 # Sup! Namaste!! I'm Prem Purushottam Bhati - aka mrprem27 <img src="https://media.tenor.com/images/3f12089a85c980dc2a5edb99a411b8a8/tenor.gif" width="50px" alt="Hello">
-## I'm a 3rd year IT Student at National Institute Of Technology Kurukshetra!
-- MERN Stack Web Developer and ReactNative/Flutter App Developer
-- I know a few languages other than Hindi and English.
-- I have good knowledge of DSA.
-- I'm a Web Developer and a Competitive Programmer with 4⭐ on CodeChef and 6⭐ in Problem Solving on HackerRank.
+## Boost Your Business with Prem Bhati, a Skilled Web and App Developer
+
+## I have the expertise to:
+- Design and develop full-stack web and mobile applications
+- Create complex applications and web apps
+- Migrate existing applications to new platforms
+- Develop native applications
+- Ensure your product exceeds your expectations
+
 ---
 ## Reach Me Out!📫 <br>
 <!-- [![Twitter Badge](https://img.shields.io/twitter/url?label=%40Utsav_soni27&style=social&url=https%3A%2F%2Ftwitter.com%2FUtsav_soni27)](https://twitter.com/Utsav_soni27) -->
